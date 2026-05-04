@@ -176,15 +176,27 @@ const translations = {
           </div> 
           <div class="pt-1"> 
             <h4 class="font-bold text-gray-900 text-base md:text-lg">Sra. Marta Salicrú</h4> 
-            <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Comisionada de Uso Social del Catalán</p> 
-            <p class="text-sm text-gray-500 mt-2">Ayuntamiento de Barcelona</p> 
+            <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Comissionada d'Ús Social del Català</p> 
+            <p class="text-sm text-gray-500 mt-2">Ayuntament de Barcelona</p> 
+          </div> 
+        </div> 
+
+        <!-- Sonia Fuertes Ledesma--> 
+        <div class="resMo flex gap-4 md:gap-5 group"> 
+          <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white"> 
+            <img src="img/Sonia Fuertes Ledesma.jpeg" alt="Sonia Fuertes Ledesma" class="w-full h-full object-cover"> 
+          </div> 
+          <div class="pt-1"> 
+            <h4 class="font-bold text-gray-900 text-base md:text-lg">Sra. Sonia Fuertes Ledesma</h4> 
+            <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Comissionada d'Acció Social</p> 
+            <p class="text-sm text-gray-500 mt-2">Ajuntament de Barcelona</p> 
           </div> 
         </div> 
 
          <!-- Vicent Barberà Manrique --> 
         <div class="resMo flex gap-4 md:gap-5 group"> 
           <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white"> 
-            <img src="img/" alt="Sr. Vicent Barberà Manrique" class="w-full h-full object-cover"> 
+            <img src="img/Vicent Barberà.jpg" alt="Sr. Vicent Barberà Manrique" class="w-full h-full object-cover"> 
           </div> 
           <div class="pt-1"> 
             <h4 class="font-bold text-gray-900 text-base md:text-lg">Sr. Vicent Barberà Manrique</h4> 
@@ -307,7 +319,7 @@ const translations = {
     tallerE_Desc: "Taller que ofereix una mirada crítica i intercultural sobre el dol migratori i els estressors que afecten les persones que migren. Mitjançant dinàmiques participatives reflexionarem sobre com es manifesta aquest procés, com impacta en el benestar emocional, la identitat i els aprenentatges, i com abordar-lo des de l’aula.<br><br>Un espai per repensar metodologies educatives, integrar l’acompanyament emocional i construir pràctiques més respectuoses i inclusives.",
     tallerE_Target: "Professorat, tècniques i voluntariat",
     tallerE_Name: "Judith Olmo",
-    tallerE_Bio: "Psicòloga especialitzada en dol migratori. Professora d’ELE i FIB en diverses escoles de llengües. Màster de professorat d’espanyol com a llengua estrangera i examinadora acreditada DELE. Cocreadora del manual ORALPHA 2 i del material Vincles d’aprenentatge oral del català per a Òmnium Cultural. Coordina projectes formatius i d’acollida sociolingüística en diferents entitats socials i col·labora amb Escola de Vida i La Troca Sants.",
+    tallerE_Bio: "Psicòloga especialitzada en dol migratori. Professora d’ELE i FIB en diverses escoles de llengües. Màster de professorat d’espanyol com a llengua estrangera i examinadora acreditada DELE. Co-creadora del manual ORALPHA 2 i del kit Vincles d’aprenentatge oral del català per a Òmnium Cultural. Coordina projectes formatius i d’acollida sociolingüística en diferents entitats socials i col·labora amb ACCEM Barcelona.",
 
     // Taller F
     imgProgramaF: "<img src='img/F. Fatima_Ahmed.JPG' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Fàtima Ahmed'> <img src='img/F. irene_garcía.JPG' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Irene García Blasi'>  ",
@@ -636,10 +648,22 @@ const translations = {
           </div> 
         </div> 
 
+        <!-- Sonia Fuertes Ledesma--> 
+        <div class="resMo flex gap-4 md:gap-5 group"> 
+          <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white"> 
+            <img src="img/Sonia Fuertes Ledesma.jpeg" alt="Sonia Fuertes Ledesma" class="w-full h-full object-cover"> 
+          </div> 
+          <div class="pt-1"> 
+            <h4 class="font-bold text-gray-900 text-base md:text-lg">Sra. Sonia Fuertes Ledesma</h4> 
+            <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Comisionada de Acción Social</p> 
+            <p class="text-sm text-gray-500 mt-2">Ayuntamiento de Barcelona</p> 
+          </div> 
+        </div>
+
         <!-- Vicent Barberà Manrique --> 
         <div class="resMo flex gap-4 md:gap-5 group"> 
           <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white"> 
-            <img src="img/" alt="Sr. Vicent Barberà Manrique" class="w-full h-full object-cover"> 
+            <img src="img/Vicent Barberà.jpg" alt="Sr. Vicent Barberà Manrique" class="w-full h-full object-cover"> 
           </div> 
           <div class="pt-1"> 
             <h4 class="font-bold text-gray-900 text-base md:text-lg">Sr. Vicent Barberà Manrique</h4> 
@@ -750,7 +774,7 @@ const translations = {
     tallerE_Desc: "Taller que ofrece una mirada crítica e intercultural sobre el duelo migratorio y los estresores que afectan a las personas migrantes. Mediante dinámicas participativas reflexionaremos sobre cómo se manifiesta este proceso, cómo impacta en el bienestar emocional, la identidad y los aprendizajes, y cómo abordarlo desde el aula.<br><br>Un espacio para repensar metodologías educativas, integrar el acompañamiento emocional y construir prácticas más respetuosas e inclusivas.",
     tallerE_Target: "Profesorado, técnicas y voluntariado",
     tallerE_Name: "Judith Olmo",
-    tallerE_Bio: "Psicóloga especializada en duelo migratorio. Profesora de ELE y FIB en diversas escuelas de lenguas. Máster de profesorado de español como lengua extranjera y examinadora acreditada DELE. Cocreadora del manual ORALPHA 2 y del material Vincles d’aprenentatge oral del català para Òmnium Cultural. Coordina proyectos formativos y de acogida sociolingüística en diferentes entidades sociales y colabora con Escuela de Vida y La Troca Sants.",
+    tallerE_Bio: "Psicóloga especializada en luto migratorio. Profesora de ELE y FIB en varias escuelas de lenguas. Máster de profesorado de español como lengua extranjera y examinadora acreditada DELE. Co-creadora del manual ORALPHA 2 y del kit Vínculos de aprendizaje oral del catalán para Òmnium Cultural. Coordina proyectos formativos y de acogida sociolingüística en diferentes entidades sociales y colabora con ACCEM Barcelona.",
 
     // Taller F
     imgProgramaF: "<img src='img/F. Fatima_Ahmed.JPG' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Fàtima Ahmed'> <img src='img/F. irene_garcía.JPG' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Irene García Blasi'>",
@@ -1069,10 +1093,22 @@ const translations = {
           </div> 
         </div> 
 
+        <!-- Sonia Fuertes Ledesma--> 
+        <div class="resMo flex gap-4 md:gap-5 group"> 
+          <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white"> 
+            <img src="img/Sonia Fuertes Ledesma.jpeg" alt="Sonia Fuertes Ledesma" class="w-full h-full object-cover"> 
+          </div> 
+          <div class="pt-1"> 
+            <h4 class="font-bold text-gray-900 text-base md:text-lg">Ms. Sonia Fuertes Ledesma</h4> 
+            <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Commissioner for Social Action</p> 
+            <p class="text-sm text-gray-500 mt-2">Barcelona City Council</p> 
+          </div> 
+        </div>
+
         <!-- Vicent Barberà Manrique --> 
         <div class="resMo flex gap-4 md:gap-5 group"> 
           <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white"> 
-            <img src="img/" alt="Mr. Vicent Barberà Manrique" class="w-full h-full object-cover"> 
+            <img src="img/Vicent Barberà.jpg" alt="Mr. Vicent Barberà Manrique" class="w-full h-full object-cover"> 
           </div> 
           <div class="pt-1"> 
             <h4 class="font-bold text-gray-900 text-base md:text-lg">Mr. Vicent Barberà Manrique</h4> 
@@ -1187,7 +1223,7 @@ const translations = {
     tallerE_Desc: "This workshop offers a critical and intercultural perspective on migration grief and the stressors affecting migrants. Through participatory dynamics, we will reflect on how this process manifests, its impact on emotional well-being, identity, and learning, and how to address it in the classroom.<br><br>A space to rethink educational methodologies, integrate emotional support, and build more respectful and inclusive practices.",
     tallerE_Target: "Teachers, professionals, and volunteers",
     tallerE_Name: "Judith Olmo",
-    tallerE_Bio: "Psychologist specialized in migration grief. Teacher of Spanish as a foreign language (ELE) and literacy (FIB) in various language schools. Holds a Master's degree in teaching Spanish as a foreign language and is an accredited DELE examiner. Co-creator of the ORALPHA 2 manual and the “Vincles” oral Catalan learning materials for Òmnium Cultural. She coordinates training and sociolinguistic inclusion projects in various social organizations and collaborates with Escola de Vida and La Troca Sants.",
+    tallerE_Bio: "Psychologist specialized in migratory grief. Teacher of ELE and FIB in several language schools. Master's degree in Spanish as a foreign language and accredited DELE examiner. Co-creator of the ORALPHA 2 manual and of the Vincles kit of oral learning of Catalan for Òmnium Cultural. She coordinates training and sociolinguistic reception projects in different social entities and collaborates with ACCEM Barcelona.",
 
     // Workshop F
     imgProgramaF: "<img src='img/F. Fatima_Ahmed.JPG' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Fàtima Ahmed'> <img src='img/F. irene_garcía.JPG' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Irene García Blasi'>",
@@ -1320,7 +1356,7 @@ const translations = {
     quisomMotorTitle: "Conference Organizing Group",
     quisomMotorIntro: "This Conference has been promoted by a <span class=\"text-white font-bold underline decoration-purple-400\">steering group</span> made up of professionals from various organizations working in the field of sociolinguistic reception:",
     quisomMotorClosing: "This group has worked collaboratively on the conceptualization and organization, maintaining continuous dialogue with the <span class=\"font-bold text-white\">Coordinadora de la Llengua</span> to strengthen the collective nature of the Conference."
-   }
+  }
 };
 
 let currentLang = localStorage.getItem("lang") || "ca";

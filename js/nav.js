@@ -77,6 +77,7 @@ function loadNav() {
               <div id="dropdown-menu" class="dropdown-content hidden">
                <div  class="dropdown-item flex m-auto text-center gap-3 px-4 py-3 cursor-pointer hover:bg-gray-100 transition-all">
                 <i class="fa-solid fa-calendar-days text-[#7a044b] text-sm"></i>
+                
                <a href="programa.html" class="text-gray-800 text-sm " data-key="navProgram">PROGRAMA</a>
                </div>
 

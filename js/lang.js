@@ -177,7 +177,7 @@ const translations = {
           <div class="pt-1"> 
             <h4 class="font-bold text-gray-900 text-base md:text-lg">Sra. Marta Salicrú</h4> 
             <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Comissionada d'Ús Social del Català</p> 
-            <p class="text-sm text-gray-500 mt-2">Ayuntament de Barcelona</p> 
+            <p class="text-sm text-gray-500 mt-2">Ajuntament de Barcelona</p> 
           </div> 
         </div> 
 
@@ -296,7 +296,6 @@ const translations = {
 
     // Taller C
     imgProgramaC: "<img src='img/C. Julia.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Júlia Lompart Esbert'>",
-
     tallerC_Title: "TALLER C — El plurilingüisme a les aules: per a què?",
     tallerC_Desc: "Taller pràctic adreçat a professionals implicats en l’ensenyament i aprenentatge de llengües en contextos culturalment i lingüísticament diversos. L’objectiu és fomentar la reflexió sobre la diversitat lingüística i proporcionar eines per entendre el paper del plurilingüisme en l’aprenentatge, així com estratègies per aprofitar els recursos lingüístics dels alumnes. <br><br> Un espai per repensar com la riquesa lingüística pot convertir-se en un motor d’aprenentatge i cohesió.",
     tallerC_Target: "Alumnat, professorat, tècniques i voluntariat",
@@ -305,7 +304,6 @@ const translations = {
 
     // Taller D
     imgProgramaD: "<img src='img/D. Vero Cano.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt=''>",
-
     tallerD_Title: "TALLER D — Biblioteques humanes: llegir vides, escoltar experiències",
     tallerD_Desc: "Les biblioteques humanes substitueixen llibres per persones que comparteixen la seva història en primera persona. Aquesta metodologia internacional promou el diàleg i la superació de prejudicis a través de l’escolta directa.<br><br>El taller presenta l’origen i els principis de les biblioteques humanes i inclou una mostra vivencial: una persona llibre vinculada a processos de migració i acollida compartirà la seva experiència en un format íntim i dialogat. Un espai segur per generar empatia, trencar estereotips i reconèixer la diversitat lingüística, cultural i vital de la ciutat.",
     tallerD_Target: "Alumnat, professorat, tècniques i voluntariat",
@@ -314,7 +312,6 @@ const translations = {
 
     // Taller E
     imgProgramaE: "<img src='img/E. Judith Olmo.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Judith Olmo'>",
-
     tallerE_Title: "TALLER E — Salut emocional a l’aula: dol migratori i estressors",
     tallerE_Desc: "Taller que ofereix una mirada crítica i intercultural sobre el dol migratori i els estressors que afecten les persones que migren. Mitjançant dinàmiques participatives reflexionarem sobre com es manifesta aquest procés, com impacta en el benestar emocional, la identitat i els aprenentatges, i com abordar-lo des de l’aula.<br><br>Un espai per repensar metodologies educatives, integrar l’acompanyament emocional i construir pràctiques més respectuoses i inclusives.",
     tallerE_Target: "Professorat, tècniques i voluntariat",
@@ -323,7 +320,6 @@ const translations = {
 
     // Taller F
     imgProgramaF: "<img src='img/F. Fatima_Ahmed.JPG' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Fàtima Ahmed'> <img src='img/F. irene_garcía.JPG' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Irene García Blasi'>  ",
-
     tallerF_Title: "TALLER F — Mirades en diàleg: més enllà del mostrador. Una experiència immersiva per repensar l’acollida",
     tallerF_Desc: "Taller immersiu que utilitza realitat virtual per experimentar situacions reals d’acollida sociolingüística creades amb dones migrades. Les participants visualitzaran dues versions d’una mateixa escena —una sense acollida i una amb una mirada inclusiva— per identificar microdinàmiques de desigualtat i bones pràctiques. Un espai vivencial per reflexionar sobre l’atenció i incorporar una mirada antiracista en contextos professionals.",
     tallerF_Target: "Professorat, tècniques i voluntariat",
@@ -343,30 +339,27 @@ const translations = {
     comunicacionsTitle: "Comunicacions",
     comunicacionsIntro: "Les comunicacions de la Jornada presenten experiències, recursos i mirades diverses sobre l’acollida sociolingüística i educativa. Des de projectes comunitaris fins a pràctiques d’aula, testimonis en primera persona o eines pedagògiques i digitals, totes comparteixen un mateix propòsit: avançar cap a espais d’aprenentatge més justos, sensibles i connectats amb la realitat de les persones migrades.<br><br>Pensats per a alumnat, professorat, tècniques o voluntariat, cada comunicació inclou també un espai de diàleg i preguntes per aprofundir en els continguts i construir coneixement col·lectiu.",
     comA_FM: "Comunicadors",
-    comB_FM: "Comunicadores",
-    comC_FM: "Comunicadores",
+    comB_FM: "Comunicadors",
+    comC_FM: "Comunicadors",
     comD_FM: "Comunicador",
-    comE_FM: "Comunicadora",
+    comE_FM: "Comunicadors",
     comF_FM: "Comunicadora",
-    comG_FM: "Comunicadores",
-    comH_FM: "Comunicadores",
-
-
+    comG_FM: "Comunicadors",
+    comH_FM: "Comunicadors",
 
     // Comunicación A
     comA_Title: "COMUNICACIÓ A — Deskilling, upskilling i reskilling: la realitat en primera persona",
-    comA_Desc: "Una conversa amb Mostafa Ardad, Jeison Vargas i Najat  Benamara sobre com aquests processos impacten en trajectòries professionals migrades. A partir de preguntes obertes i testimonis, s’explora com es viuen el descens, la recuperació i la requalificació de competències, i com aquestes dinàmiques condicionen oportunitats, expectatives i identitats laborals.",
+    comA_Desc: "Una conversa amb  Jeison Vargas i Najat  Benamara sobre com aquests processos impacten en trajectòries professionals migrades. A partir de preguntes obertes i testimonis, s’explora com es viuen el descens, la recuperació i la requalificació de competències, i com aquestes dinàmiques condicionen oportunitats, expectatives i identitats laborals.",
     comA_Target: "Alumnat, professorat, tècniques i voluntariat",
-    comA_Name: "Chayma Rachdi Mennana, Mostafa Ardad, Jeison Vargas i Najat Benamara",
-    comA_Bio: "<b>Mostafa Ardad</b>. Graduat en Dret i especialitzat en Dret Privat, ha fet pràctiques en jutjats i despatxos, i ha treballat com a representant comercial fora d’Espanya. Aporta una mirada vivencial sobre la requalificació professional en context migratori.<br><br> <b>Jeison Vargas Pedraza</b>. Músic i docent d’educació artística format a la Universidad Distrital de Bogotá, amb experiència en tallers creatius i concerts didàctics. Resideix actualment a Barcelona, on participa en projectes culturals i educatius.<br><br> <b>Chayma Rachdi Mennana</b>. Comunicadora antiracista, investigadora i orientadora laboral. Graduada en Humanitats i amb un màster en Drets Humans. Treballa en el programa Prometeus i ha coordinat projectes laborals amb persones migrades i joves gitanos, sempre amb una perspectiva crítica i comunitària. <br><br> <b>Najat Benamara</b>. Intèrpret i professora d’àrab i dàrija marroquina. Des de la seva arribada a Espanya el 2009, ha treballat en l’àmbit socioeducatiu com a docent i mediadora intercultural, per facilitar la comunicació entre famílies migrants i professionals, i contribuir a crear ponts entre cultures. Es va graduar en Estudis Àrabs i Hebreus per la Universitat de Barcelona i té una diplomatura en Lingüística Àrab per la Universitat Moulay Ismail. Actualment cursa el grau de Treball Social a la UNED.",
-    imgComuniA: "<img src='img/A. Chaymae.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Chaymae'> <img src='img/A. Mostafa.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Mostafa'> <img src='img/A. Jeison.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Jeison'> <img src='img/A.Najat.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Najat'> ",
+    comA_Name: "Chayma Rachdi Mennana, Jeison Vargas i Najat Benamara",
+    comA_Bio: " <b>Jeison Vargas Pedraza</b>. Músic i docent d’educació artística format a la Universidad Distrital de Bogotá, amb experiència en tallers creatius i concerts didàctics. Resideix actualment a Barcelona, on participa en projectes culturals i educatius.<br><br> <b>Chayma Rachdi Mennana</b>. Comunicadora antiracista, investigadora i orientadora laboral. Graduada en Humanitats i amb un màster en Drets Humans. Treballa en el programa Prometeus i ha coordinat projectes laborals amb persones migrades i joves gitanos, sempre amb una perspectiva crítica i comunitària. <br><br> <b>Najat Benamara</b>. Intèrpret i professora d’àrab i dàrija marroquina. Des de la seva arribada a Espanya el 2009, ha treballat en l’àmbit socioeducatiu com a docent i mediadora intercultural, per facilitar la comunicació entre famílies migrants i professionals, i contribuir a crear ponts entre cultures. Es va graduar en Estudis Àrabs i Hebreus per la Universitat de Barcelona i té una diplomatura en Lingüística Àrab per la Universitat Moulay Ismail. Actualment cursa el grau de Treball Social a la UNED.",
+    imgComuniA: "<img src='img/A. Chaymae.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Chaymae'> <img src='img/A. Jeison.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Jeison'> <img src='img/A.Najat.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Najat'> ",
 
     // Comunicación B
     comB_Title: "COMUNICACIÓ B — Treball comunitari i aprenentatge de la llengua: teixint vincles al barri",
     comB_Desc: "Accem i Escola de Vida presenten iniciatives que combinen llengua, comunitat i benestar: intercanvi de cartes entre persones migrades i infants, Dones en Rodes, Compartim Vida i espais de ioga. Propostes que reforcen l’autonomia, les relacions de barri i l’aprenentatge mutu entre veïnes.",
     comB_Target: "Alumnat, professorat, tècniques i voluntariat",
     comB_Name: "Alba Domínguez, Karla Montenegro i Marta Vilar",
-
     comB_Bio: "<b> Alba Domínguez</b>. Graduada en Estudis Socioculturals de Gènere i màster en Intervenció Psicosocial. Especialitzada en polítiques LGTBI i treball comunitari, és referent de l’Àrea Social d’Escola de Vida, des d’on impulsa xarxes de suport i acompanyament integral. <br> <br> <b> Karla Montenegro</b>. Psicòloga social especialitzada en projectes educatius i comunitaris. Ha coordinat el Pla Educatiu d’Entorn de l’Hospitalet i projectes d’orientació adolescent. Actualment dirigeix Escola de Vida Les Planes - La Florida.<br><br> <b> Marta Vilar</b>. Llicenciada en Traducció i diplomada en Educació Social, és professora de llengües d’acollida i alfabetització a ACCEM amb persones demandants d’asil i refugi. Ha coordinat cursos per a persones migrades, format professorat d’acollida sociolingüística i dinamitzat a la Coordinadora de la Llengua de Barcelona, dins de les seves tasques com a coordinadora d’ACOF. És coautora de ¿Hablamos? i dels manuals d’alfabetització ORALPHA 1 i ORALPHA 2.",
     imgComuniB: "<img src='img/B. Alba.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Alba'> <img src='img/B. Karla.png' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Karla'> <img src='img/B. Marta Vilar.png' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Marta Vilar'> ",
 
@@ -375,8 +368,6 @@ const translations = {
     comC_Desc: "Una proposta per repensar l’acompanyament a joves migrats en aules d’acollida, tenint en compte les seves trajectòries i necessitats. La sessió combina autoreflexió docent i eines per dissenyar intervencions inclusives, permeables i respectuoses amb la diversitat.",
     comC_Target: "Professorat, tècniques i voluntariat",
     comC_Name: "Mariana Gini i Marisol Tarriba",
-
-
     comC_Bio: "<b>Marisol Tarriba</b>. Llicenciada en Història i amb un màster Erasmus Mundus en Polítiques Educatives. Porta més d’una dècada en projectes socioeducatius i coordina el projecte per a joves Ta-Axira d’Eicascantic. Centra la seva pràctica en l’empatia, la inclusió i la defensa de drets. <br><br> <b>Mariana Gini</b>. Graduada en Llengües i Literatures Modernes i màster en Ensenyament d’Espanyol per a Estrangers. Professora d’alfabetització i ELE a EICA, amb experiència en aules d’adults i joves en procés d’acollida.",
     imgComuniC: "<img src='img/C. Marisol i Mariana.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Marisol i Mariana'> ",
 
@@ -391,11 +382,11 @@ const translations = {
 
     // Comunicación E
     comE_Title: "COMUNICACIÓ E — L’acollida en primera persona",
-    comE_Desc: "Una sessió de diàleg amb testimonis sobre l’experiència d’acollida sociolingüística en un context multilingüe . Es revisen creences sobre l’ús del català, s’identifiquen bones pràctiques i s’exploren estratègies per reforçar-ne l’ús entre persones de nivell inicial.",
-    comE_Name: "Emma Navó",
+    comE_Desc: "Una sessió de diàleg amb el testimoni de Gagandeep Sing sobre l’experiència d’acollida sociolingüística en un context multilingüe . Es revisen creences sobre l’ús del català, s’identifiquen bones pràctiques i s’exploren estratègies per reforçar-ne l’ús entre persones de nivell inicial",
+    comE_Name: "Emma Navó i Gagandeep Singh Khalsa",
     comE_Target: "Alumnat, professorat, tècniques i voluntariat",
-    comE_Bio: "Filòloga i psicoterapeuta especialitzada en mediació i conflictes. Té més de vint anys d’experiència al CPNL en dinamització i foment de l’ús del català, treballant en xarxa amb entitats i serveis per promoure comunitats lingüísticament vives i inclusives.",
-    imgComuniE: "<img src='img/E. Emma Nevó.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Emma Nevó'> ",
+    comE_Bio: "<b>Emma Navó</b> Filòloga i psicoterapeuta especialitzada en mediació i conflictes. Té més de vint anys d’experiència al CPNL en dinamització i foment de l’ús del català, treballant en xarxa amb entitats i serveis per promoure comunitats lingüísticament vives i inclusives. <br><br> <b>Gagandeep Singh Khalsa</b> Nascut a Amritsar (Panjab), és llicenciat en Informàtica i resideix a Catalunya des de l’any 2008; actualment viu a Alella. Parla set llengües. Treballa com a mediador intercultural a l’Ajuntament de Barcelona i és portaveu de la comunitat sikh de Catalunya. També és autor de publicacions com Els de cinc rius a Catalunya i Apreneu català.",
+    imgComuniE: "<img src='img/E. Emma Nevó.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Emma Nevó'> <img src='img/Gagandeep.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Gagandeep Singh Khalsa'>",
 
     // Comunicación F
     comF_Title: "COMUNICACIÓ F — ORALPHA 1 i 2 + ORALPHA Digital: eines per a l’alfabetització i l’acollida lingüística",
@@ -799,18 +790,18 @@ const translations = {
     comB_FM: "Comunicadoras",
     comC_FM: "Comunicadoras",
     comD_FM: "Comunicador",
-    comE_FM: "Comunicadora",
+    comE_FM: "Comunicadores",
     comF_FM: "Comunicadora",
     comG_FM: "Comunicadoras",
     comH_FM: "Comunicadoras",
 
     // Comunicación A
     comA_Title: "COMUNICACIÓN A — Deskilling, upskilling y reskilling: la realidad en primera persona",
-    comA_Desc: "Una conversación con Mostafa Ardad, Jeison Vargas y Najat Benamara sobre cómo estos procesos impactan en trayectorias profesionales migrantes. A partir de preguntas abiertas y testimonios, se explora cómo se viven el descenso, la recuperación y la recualificación de competencias, y cómo estas dinámicas condicionan oportunidades, expectativas e identidades laborales.",
+    comA_Desc: "Una conversación con Jeison Vargas y Najat Benamara sobre cómo estos procesos impactan en trayectorias profesionales migrantes. A partir de preguntas abiertas y testimonios, se explora cómo se viven el descenso, la recuperación y la recualificación de competencias, y cómo estas dinámicas condicionan oportunidades, expectativas e identidades laborales.",
     comA_Target: "Alumnado, profesorado, técnicas y voluntariado",
-    comA_Name: "Chayma Rachdi Mennana, Mostafa Ardad, Jeison Vargas y Najat Benamara",
-    comA_Bio: "<b>Mostafa Ardad</b>. Graduado en Derecho y especializado en Derecho Privado, ha realizado prácticas en juzgados y despachos, y ha trabajado como representante comercial fuera de España. Aporta una mirada vivencial sobre la recualificación profesional en contexto migratorio.<br><br><b>Jeison Vargas Pedraza</b>. Músico y docente de educación artística formado en la Universidad Distrital de Bogotá, con experiencia en talleres creativos y conciertos didácticos. Reside actualmente en Barcelona, donde participa en proyectos culturales y educativos.<br><br><b>Chayma Rachdi Mennana</b>. Comunicadora antirracista, investigadora y orientadora laboral. Graduada en Humanidades y con un máster en Derechos Humanos. Trabaja en el programa Prometeus y ha coordinado proyectos laborales con personas migrantes y jóvenes gitanos, siempre con una perspectiva crítica y comunitaria.<br><br><b>Najat Benamara</b>. Intérprete y profesora de árabe y darija marroquí. Desde su llegada a España en 2009, ha trabajado en el ámbito socioeducativo como docente y mediadora intercultural, facilitando la comunicación entre familias migrantes y profesionales, y contribuyendo a crear puentes entre culturas. Se graduó en Estudios Árabes y Hebreos por la Universidad de Barcelona y tiene una diplomatura en Lingüística Árabe por la Universidad Moulay Ismail. Actualmente cursa el grado de Trabajo Social en la UNED.",
-    imgComuniA: "<img src='img/A. Chaymae.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Chaymae'> <img src='img/A. Mostafa.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Mostafa'> <img src='img/A. Jeison.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Jeison'> <img src='img/A.Najat.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Najat'> ",
+    comA_Name: "Chayma Rachdi Mennana, Jeison Vargas y Najat Benamara",
+    comA_Bio: "<b>Jeison Vargas Pedraza</b>. Músico y docente de educación artística formado en la Universidad Distrital de Bogotá, con experiencia en talleres creativos y conciertos didácticos. Reside actualmente en Barcelona, donde participa en proyectos culturales y educativos.<br><br><b>Chayma Rachdi Mennana</b>. Comunicadora antirracista, investigadora y orientadora laboral. Graduada en Humanidades y con un máster en Derechos Humanos. Trabaja en el programa Prometeus y ha coordinado proyectos laborales con personas migrantes y jóvenes gitanos, siempre con una perspectiva crítica y comunitaria.<br><br><b>Najat Benamara</b>. Intérprete y profesora de árabe y darija marroquí. Desde su llegada a España en 2009, ha trabajado en el ámbito socioeducativo como docente y mediadora intercultural, facilitando la comunicación entre familias migrantes y profesionales, y contribuyendo a crear puentes entre culturas. Se graduó en Estudios Árabes y Hebreos por la Universidad de Barcelona y tiene una diplomatura en Lingüística Árabe por la Universidad Moulay Ismail. Actualmente cursa el grado de Trabajo Social en la UNED.",
+    imgComuniA: "<img src='img/A. Chaymae.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Chaymae'>  <img src='img/A. Jeison.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Jeison'> <img src='img/A.Najat.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Najat'> ",
 
     // Comunicación B
     comB_Title: "COMUNICACIÓN B — Trabajo comunitario y aprendizaje de la lengua: tejiendo vínculos en el barrio",
@@ -840,12 +831,12 @@ const translations = {
     imgComuniD: "<img src='img/D. Alfons Formaliz.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Alfons Formaliz'> ",
 
     // Comunicación E
-    comF_Title_es: "COMUNICACIÓN F — ORALPHA 1 y 2 + ORALPHA Digital: herramientas para la alfabetización y la acogida lingüística",
-    comF_Desc_es: "Presentación de ORALPHA 1, ORALPHA 2 y el nuevo ORALPHA Digital, diseñados para la alfabetización en contextos de migración. Se exploran las conexiones con el marco LASLLIAM y se debaten los puntos fuertes, débiles y retos actuales de la alfabetización.",
-    comF_Name_es: "Meritxell Vergara Lamarca",
-    comF_Target_es: "Alumnado, profesorado, técnicas y voluntariado",
-    comF_Bio_es: "Antropóloga y coordinadora de Formación de Personas Adultas en Eicascantic. Profesora de alfabetización y formadora en ACOF, trabaja en el diseño e implementación de materiales y metodologías para la acogida lingüística.",
-    imgComuniE: "<img src='img/E. Emma Nevó.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Emma Nevó'> ",
+    comE_Title: "COMUNICACIÓN E — La acogida en primera persona",
+    comE_Desc: "Una sesión de diálogo con el testimonio de Gagandeep Sing sobre la experiencia de acogida sociolingüística en un contexto multilingüe. Se revisan creencias sobre el uso del catalán, se identifican buenas prácticas y se exploran estrategias para reforzar su uso entre personas de nivel inicial.",
+    comE_Name: "Emma Navó y Gagandeep Singh Khalsa",
+    comE_Target: "Alumnado, profesorado, técnicas y voluntariado",
+    comE_Bio: "<b>Emma Navó</b> Filóloga y psicoterapeuta especializada en mediación y conflictos. Cuenta con más de veinte años de experiencia en el CPNL en dinamización y fomento del uso del catalán, trabajando en red con entidades y servicios para promover comunidades lingüísticamente vivas e inclusivas. <br><br> <b>Gagandeep Singh Khalsa</b> Nacido en Amritsar (Punyab), es licenciado en Informática y reside en Cataluña desde el año 2008; actualmente vive en Alella. Habla siete lenguas. Trabaja como mediador intercultural en el Ayuntamiento de Barcelona y es portavoz de la comunidad sij de Cataluña. También es autor de publicaciones como Els de cinc rius a Catalunya y Apreneu català.",
+    imgComuniE: "<img src='img/E. Emma Nevó.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Emma Nevó'> <img src='img/Gagandeep.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Gagandeep Singh Khalsa'>",
 
     // Comunicación F
     comF_Title: "COMUNICACIÓN F — ORALPHA 1 y 2 + ORALPHA Digital: herramientas para la alfabetización y la acogida lingüística",
@@ -856,19 +847,19 @@ const translations = {
     imgComuniF: "<img src='img/F. Meri.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Meritxell Vergara Lamarca'> ",
 
     // Comunicación G
-    comG_Title_es: "COMUNICACIÓN G — Aprenem. Familias en red (AFEX)",
-    comG_Desc_es: "Programa intercultural e intergeneracional que refuerza la participación de familias migrantes en la comunidad educativa. A través de sesiones APS dentro de los centros, madres, niños y adolescentes aprenden lenguas de acogida partiendo de sus lenguas maternas, con el apoyo de dinamizadoras y estudiantes en prácticas.",
-    comG_Name_es: "Muniba Munir e Iqra Sharif",
-    comG_Target_es: "Profesorado, técnicas y voluntariado",
-    comG_Bio_es: "<b>Muniba Munir Siraj</b>. Es graduada en Filosofía con un Minor en Estudios de Género. Ha colaborado en diversos proyectos educativos, como AFEX de Casa Àsia, y actualmente es profesora en Martinet Solidari, escuela de adultos del barrio de Besòs y el Maresme. Nacida en Pakistán y criada en Barcelona.<br><br> <b>Iqra Sharif</b>. Barcelonesa de origen pakistaní, habla cinco idiomas y combina su trabajo como higienista dental y gestora de redes sociales con los estudios de Farmacia en la UB. Hace tres años que es dinamizadora del proyecto AFEX de Casa Àsia, donde trabaja para romper barreras lingüísticas y promover la inclusión de la comunidad asiática.",
+    comG_Title: "COMUNICACIÓN G — Aprenem. Familias en red (AFEX)",
+    comG_Desc: "Programa intercultural e intergeneracional que refuerza la participación de familias migrantes en la comunidad educativa. A través de sesiones APS dentro de los centros, madres, niños y adolescentes aprenden lenguas de acogida partiendo de sus lenguas maternas, con el apoyo de dinamizadoras y estudiantes en prácticas.",
+    comG_Name: "Muniba Munir e Iqra Sharif",
+    comG_Target: "Profesorado, técnicas y voluntariado",
+    comG_Bio: "<b>Muniba Munir Siraj</b>. Es graduada en Filosofía con un Minor en Estudios de Género. Ha colaborado en diversos proyectos educativos, como AFEX de Casa Àsia, y actualmente es profesora en Martinet Solidari, escuela de adultos del barrio de Besòs y el Maresme. Nacida en Pakistán y criada en Barcelona.<br><br> <b>Iqra Sharif</b>. Barcelonesa de origen pakistaní, habla cinco idiomas y combina su trabajo como higienista dental y gestora de redes sociales con los estudios de Farmacia en la UB. Hace tres años que es dinamizadora del proyecto AFEX de Casa Àsia, donde trabaja para romper barreras lingüísticas y promover la inclusión de la comunidad asiática.",
     imgComuniG: "<img src='img/G. Muniba Munur bé.png' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Muniba Munir Siraj'><img src='img/G. Iqra.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Iqra Sharif'> ",
 
     // Comunicación H
-    comH_Title_es: "COMUNICACIÓN H — Alfabetización matemática para personas adultas",
-    comH_Desc_es: "Presentación de los talleres de matemáticas de La Troca, con cuatro niveles iniciales. La sesión revisa el origen de la propuesta, el pilotaje, los perfiles del alumnado, los objetivos y actividades, así como retos y dificultades, y abre un espacio de dudas e intercambio.",
-    comH_Name_es: "Adriana Sabaté y Marta Miñambres",
-    comH_Target_es: "Profesorado, técnicas y voluntariado",
-    comH_Bio_es: "<b>Marta Miñambres</b>. Educadora social y máster en Formación de Personas Adultas. Profesora de alfabetización y ELE, y coordinadora de proyectos de acogida en entidades sociales. Forma parte de La Troca como docente y formadora.<br><br> <b>Adriana Sabaté Muriel</b>. Educadora social con posgrado en Género e Igualdad. Docente de alfabetización en La Troca, con experiencia en orientación sociolaboral y acompañamiento de personas adultas desde una mirada feminista interseccional.",
+    comH_Title: "COMUNICACIÓN H — Alfabetización matemática para personas adultas",
+    comH_Desc: "Presentación de los talleres de matemáticas de La Troca, con cuatro niveles iniciales. La sesión revisa el origen de la propuesta, el pilotaje, los perfiles del alumnado, los objetivos y actividades, así como retos y dificultades, y abre un espacio de dudas e intercambio.",
+    comH_Name: "Adriana Sabaté y Marta Miñambres",
+    comH_Target: "Profesorado, técnicas y voluntariado",
+    comH_Bio: "<b>Marta Miñambres</b>. Educadora social y máster en Formación de Personas Adultas. Profesora de alfabetización y ELE, y coordinadora de proyectos de acogida en entidades sociales. Forma parte de La Troca como docente y formadora.<br><br> <b>Adriana Sabaté Muriel</b>. Educadora social con posgrado en Género e Igualdad. Docente de alfabetización en La Troca, con experiencia en orientación sociolaboral y acompañamiento de personas adultas desde una mirada feminista interseccional.",
     imgComuniH: "<img src='img/H. Marta i Adriana.png' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Adriana Sabaté y Marta Miñambres'> ",
 
     content7: "<div class='flex items-center gap-4 bg-purple-50 p-6 rounded-2xl'><i class='fa-solid fa-flag-checkered text-3xl text-[#7a044b]'></i><p>14:30 – 14:45 h. Conclusiones finales y clausura.</p></div>",
@@ -1249,18 +1240,18 @@ const translations = {
     comB_FM: "Communicators",
     comC_FM: "Communicators",
     comD_FM: "Communicator",
-    comE_FM: "Communicator",
+    comE_FM: "Communicators",
     comF_FM: "Communicator",
     comG_FM: "Communicators",
     comH_FM: "Communicators",
 
     // Communication A
     comA_Title: "COMMUNICATION A — Deskilling, upskilling and reskilling: the reality in first person",
-    comA_Desc: "A conversation with Mostafa Ardad, Jeison Vargas and Najat Benamara about how these processes impact migrant professional trajectories. Through open questions and testimonies, the session explores how deskilling, recovery and requalification of skills are experienced, and how these dynamics condition opportunities, expectations and work identities.",
+    comA_Desc: "A conversation with Jeison Vargas and Najat Benamara about how these processes impact migrant professional trajectories. Through open questions and testimonies, the session explores how deskilling, recovery and requalification of skills are experienced, and how these dynamics condition opportunities, expectations and work identities.",
     comA_Target: "Students, teachers, technicians and volunteers",
-    comA_Name: "Chayma Rachdi Mennana, Mostafa Ardad, Jeison Vargas and Najat Benamara",
-    comA_Bio: "<b>Mostafa Ardad</b>. Graduate in Law specialized in Private Law, he has done internships in courts and law firms, and has worked as a commercial representative outside Spain. He brings a lived experience perspective on professional requalification in a migration context.<br><br> <b>Jeison Vargas Pedraza</b>. Musician and arts education teacher trained at the Universidad Distrital de Bogotá, with experience in creative workshops and didactic concerts. He currently resides in Barcelona, where he participates in cultural and educational projects.<br><br> <b>Chayma Rachdi Mennana</b>. Antiracist communicator, researcher and career advisor. Graduate in Humanities with a master's degree in Human Rights. She works in the Prometeus program and has coordinated labor projects with migrant people and Roma youth, always from a critical and community perspective.<br><br> <b>Najat Benamara</b>. Interpreter and teacher of Arabic and Moroccan Darija. Since her arrival in Spain in 2009, she has worked in the socio-educational field as a teacher and intercultural mediator, to facilitate communication between migrant families and professionals, and to help build bridges between cultures. She graduated in Arabic and Hebrew Studies from the University of Barcelona and has a diploma in Arabic Linguistics from Moulay Ismail University. She is currently studying Social Work at UNED.",
-    imgComuniA: "<img src='img/A. Chaymae.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Chaymae'> <img src='img/A. Mostafa.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Mostafa'> <img src='img/A. Jeison.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Jeison'> <img src='img/A.Najat.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Najat'> ",
+    comA_Name: "Chayma Rachdi Mennana, Jeison Vargas and Najat Benamara",
+    comA_Bio: "<b>Jeison Vargas Pedraza</b>. Musician and arts education teacher trained at the Universidad Distrital de Bogotá, with experience in creative workshops and didactic concerts. He currently resides in Barcelona, where he participates in cultural and educational projects.<br><br> <b>Chayma Rachdi Mennana</b>. Antiracist communicator, researcher and career advisor. Graduate in Humanities with a master's degree in Human Rights. She works in the Prometeus program and has coordinated labor projects with migrant people and Roma youth, always from a critical and community perspective.<br><br> <b>Najat Benamara</b>. Interpreter and teacher of Arabic and Moroccan Darija. Since her arrival in Spain in 2009, she has worked in the socio-educational field as a teacher and intercultural mediator, to facilitate communication between migrant families and professionals, and to help build bridges between cultures. She graduated in Arabic and Hebrew Studies from the University of Barcelona and has a diploma in Arabic Linguistics from Moulay Ismail University. She is currently studying Social Work at UNED.",
+    imgComuniA: "<img src='img/A. Chaymae.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Chaymae'> <img src='img/A. Jeison.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Jeison'> <img src='img/A.Najat.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Najat'> ",
 
     // Communication B
     comB_Title: "COMMUNICATION B — Community work and language learning: weaving neighborhood bonds",
@@ -1287,12 +1278,12 @@ const translations = {
     imgComuniD: "<img src='img/D. Alfons Formaliz.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Alfons Formaliz'> ",
 
     // Communication E
-    comE_Title: "COMMUNICATION E — Reception in first person",
-    comE_Desc: "A dialogue session with testimonies about the sociolinguistic reception experience in a multilingual context. Beliefs about the use of Catalan are reviewed, good practices are identified and strategies to strengthen its use among beginners are explored.",
-    comE_Target: "Students, teachers, technicians and volunteers",
-    comE_Name: "Emma Navó",
-    comE_Bio: "Philologist and psychotherapist specialized in mediation and conflicts. She has more than twenty years of experience at CPNL in the promotion and dynamization of Catalan use, working in network with organizations and services to promote linguistically alive and inclusive communities.",
-    imgComuniE: "<img src='img/E. Emma Nevó.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Emma Navó'> ",
+    comE_Title: "COMMUNICATION E — First-hand welcoming experience",
+    comE_Desc: "A dialogue session featuring the testimony of Gagandeep Sing on the experience of sociolinguistic welcoming in a multilingual context. Beliefs about the use of Catalan are revisited, good practices are identified, and strategies are explored to strengthen its use among beginner-level learners.",
+    comE_Name: "Emma Navó and Gagandeep Singh Khalsa",
+    comE_Target: "Students, teachers, technical staff, and volunteers",
+    comE_Bio: "<b>Emma Navó</b> Philologist and psychotherapist specialized in mediation and conflict resolution. She has over twenty years of experience at the CPNL promoting and encouraging the use of Catalan, working collaboratively with organizations and services to foster linguistically vibrant and inclusive communities. <br><br> <b>Gagandeep Singh Khalsa</b> Born in Amritsar (Punjab), he holds a degree in Computer Science and has lived in Catalonia since 2008; he currently resides in Alella. He speaks seven languages. He works as an intercultural mediator at Barcelona City Council and is a spokesperson for the Sikh community in Catalonia. He is also the author of publications such as Els de cinc rius a Catalunya and Apreneu català.",
+    imgComuniE: "<img src='img/E. Emma Nevó.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Emma Nevó'> <img src='img/Gagandeep.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Gagandeep Singh Khalsa'>",
 
     // Communication F
     comF_Title: "COMMUNICATION F — ORALPHA 1 and 2 + ORALPHA Digital: tools for literacy and linguistic inclusion",
